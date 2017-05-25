@@ -1,0 +1,116 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  28 APR 2017 13:06
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Thesis.tex
+(./Thesis.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./UCMerced.cls
+Document Class: UCMerced 2008/05/13 V1.1 University of California, San Diego, M
+athematics Dissertation Class
+(./uct12.clo)
+\descriptionmargin=\dimen102
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\@chapterlength=\skip41
+\@subsectionlength=\skip42
+\@subsubsectionlength=\skip43
+\@paragraphlength=\skip44
+\@subparagraphlength=\skip45
+\@figurelength=\skip46
+\@tablelength=\skip47
+\c@figure=\count86
+\c@table=\count87
+) (./Thesis.aux)
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+
+ []
+
+[1
+
+{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 108.
+ [3] [4] [5] (./Thesis.toc)
+\tf@toc=\write3
+\openout3 = `Thesis.toc'.
+
+ [6] (./Thesis.lof)
+\tf@lof=\write4
+\openout4 = `Thesis.lof'.
+
+ [7] (./Thesis.lot)
+\tf@lot=\write5
+\openout5 = `Thesis.lot'.
+
+ [8]
+[9]
+Overfull \hbox (7.02782pt too wide) in paragraph at lines 189--190
+[]\OT1/cmr/m/n/12 Ph. D. in Math-e-mat-ics, Uni-ver-sity of Cal-i-for-nia, Merc
+ed 
+ []
+
+[10] [11]
+Chapter 1.
+[1
+
+]
+Chapter 2.
+[2
+
+]
+Chapter 3.
+[3
+
+]
+Appendix A.
+(./Thesis.bbl [4
+
+]) [5
+
+] (./Thesis.aux) ) 
+Here is how much of TeX's memory you used:
+ 322 strings out of 493089
+ 3403 string characters out of 6134842
+ 57953 words of memory out of 5000000
+ 3870 multiletter control sequences out of 15000+600000
+ 8847 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,7n,22p,249b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmti12.pfb>
+Output written on Thesis.pdf (16 pages, 54590 bytes).
+PDF statistics:
+ 68 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
