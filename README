@@ -1,7 +1,7 @@
 This folder should contain:
 /
     template.tex - Primary Driver File
-    ucsd.cls - LaTeX class file
+    UCMerced.cls - LaTeX class file
     uct10.clo - Font files associated to LaTeX class file
     uct11.clo
     uct12.clo
@@ -13,5 +13,6 @@ not have a need to edit any other file.
 
 
 Good luck.
-
 Jason Bandlow & Ross Richardson - 8/31/2007
+
+Modified to UC Merced by Lasith Adhikari - 5/10/2017
